@@ -19,7 +19,7 @@ export default {
 </script>
 <style scoped>
 .nuxt-background {
-  background: var(--gray-150);
-  border-top: 8em solid var(--teal);
+  color: grey;
+  border-top: 20px solid teal;
 }
 </style>

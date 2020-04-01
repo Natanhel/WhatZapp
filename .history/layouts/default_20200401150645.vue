@@ -1,7 +1,7 @@
 <template>
-  <v-app>
-    <v-content class="nuxt-background">
-      <v-container>
+  <v-app dark>
+    <v-content id="nuxtBackground">
+      <v-container id="nuxt">
         <nuxt />
       </v-container>
     </v-content>
@@ -9,7 +9,6 @@
 </template>
 
 <script>
-import '~/assets/style.css'
 export default {
   data () {
     return {
@@ -17,9 +16,13 @@ export default {
   }
 }
 </script>
+
 <style scoped>
-.nuxt-background {
-  background: var(--gray-150);
-  border-top: 8em solid var(--teal);
+.nuxt {
+  padding: 2em;
+  margin: 2em;
+}
+.nuxtBackground {
+  background-color: aliceblue;
 }
 </style>

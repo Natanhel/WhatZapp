@@ -20,6 +20,6 @@ export default {
 <style scoped>
 .nuxt-background {
   background: var(--gray-150);
-  border-top: 8em solid var(--teal);
+  border-top: 7.9em solid var(--teal);
 }
 </style>

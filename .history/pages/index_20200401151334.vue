@@ -1,5 +1,6 @@
 <template>
   <v-layout
+    id="indexMain"
     column
     justify-center
     align-center
@@ -9,7 +10,9 @@
       sm8
       md6
     >
-      <v-card />
+      <v-card>
+        card
+      </v-card>
     </v-flex>
   </v-layout>
 </template>
@@ -21,4 +24,7 @@ export default {
 </script>
 
 <style scoped>
+#indexMain {
+  padding: --teal;
+}
 </style>

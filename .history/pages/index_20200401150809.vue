@@ -1,5 +1,6 @@
 <template>
   <v-layout
+    id="indexMain"
     column
     justify-center
     align-center
@@ -21,4 +22,7 @@ export default {
 </script>
 
 <style scoped>
+#indexMain {
+  padding: 5em;
+}
 </style>

@@ -9,7 +9,9 @@
       sm8
       md6
     >
-      <v-card />
+      <v-card>
+        card
+      </v-card>
     </v-flex>
   </v-layout>
 </template>
