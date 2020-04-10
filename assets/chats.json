@@ -1,0 +1,63 @@
+{
+  "chats": [
+    {
+      "icon": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg",
+      "chatName": "Chen Fridel",
+      "chatLatest": "תודה על העזרה ב-MATLAB"
+    },
+    {
+      "icon": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg",
+      "chatName": "צוות ברק",
+      "chatLatest": "מישהו במשרד?"
+    },
+    {
+      "icon": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1981871a-1560281723.jpg",
+      "chatName": "רז קורטרן",
+      "chatLatest": "מיככככאאאאאאל"
+    },
+    {
+      "chatName": "שי אדרי",
+      "chatLatest": "אחי מה איכפת לך"
+    },
+    {
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVYsHWHn8CrxIfc1zSKnNzJsMPFFBtuDpBG7X57MCw9jAq7mRm&usqp=CAU",
+      "chatName": "שחר קריכלי",
+      "chatLatest": "תודה על העזרה ב-Vue"
+    },
+    {
+      "icon": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1981871a-1560281723.jpg",
+      "chatName": "חיים שרגאי",
+      "chatLatest": "לא מתחבר לי הסאפ מהבית"
+    },
+    {
+      "icon": "https://ideapod.com/wp-content/uploads/2017/08/person-1.jpg",
+      "chatName": "אוראל טולדנו",
+      "chatLatest": "מה מצב הפרויקט?"
+    },
+
+    {
+      "icon": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1981871a-1560281723.jpg",
+      "chatName": "משפחה",
+      "chatLatest": "מה המצב?"
+    },
+    {
+      "chatName": "מלאכי בנימין",
+      "chatLatest": "מתווווווקהההה"
+    },
+    {
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVYsHWHn8CrxIfc1zSKnNzJsMPFFBtuDpBG7X57MCw9jAq7mRm&usqp=CAU",
+      "chatName": "בנצי ביניק",
+      "chatLatest": "תודה על העזרה ב-Vue"
+    },
+    {
+      "icon": "https://ideapod.com/wp-content/uploads/2017/08/person-1.jpg",
+      "chatName": "בנימין בקשי",
+      "chatLatest": "backend זה הכי אחי"
+    },
+    {
+      "icon": "https://ideapod.com/wp-content/uploads/2017/08/person-1.jpg",
+      "chatName": "tester'",
+      "chatLatest": "tester text"
+    }
+  ]
+}
