@@ -11,10 +11,9 @@
             size="40"
             class="toolbar-height"
           >
-            <img
+            <v-img
               :src="img"
-              alt="John"
-            >
+            />
           </v-avatar>
           {{ name }}
         </v-col>

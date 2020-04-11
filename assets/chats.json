@@ -3,12 +3,112 @@
     {
       "icon": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg",
       "chatName": "Chen Fridel",
-      "chatLatest": "תודה על העזרה ב-MATLAB"
+      "chatLatest": "תודה על העזרה ב-MATLAB",
+      "chat": [
+        {
+          "type": "NAL",
+          "name": "פינוקיו",
+          "timestamp": "10:19 pm",
+          "message": "בוקר טוב עולם"
+        },
+        {
+          "type": "L",
+          "name": "פינוקיו",
+          "timestamp": "10:20 pm",
+          "message": "מה שלום כולם?"
+        },
+        {
+          "type": "L",
+          "name": "פינוקיו",
+          "timestamp": "10:21 pm",
+          "message": "אני יורד מן החוטים"
+        },
+        {
+          "type": "NAR",
+          "name": "אני",
+          "timestamp": "10:22 pm",
+          "message": "אני כבר ילד אמיתי"
+        },
+        {
+          "type": "NNAL",
+          "name": "פינוקיו",
+          "timestamp": "10:25 pm",
+          "message": "כמו כל הילדים"
+        },
+        {
+          "type": "AR",
+          "name": "אני",
+          "timestamp": "10:26 pm",
+          "message": "כמה טוב לחיות ולהיות"
+        },
+        {
+          "type": "R",
+          "name": "אני",
+          "timestamp": "10:26 pm",
+          "message": "ילד שאוהב את העולם"
+        },
+        {
+          "type": "NNAL",
+          "name": "פינוקיו",
+          "timestamp": "10:26 pm",
+          "message": "והעולם אותו אוהב"
+        },
+        {
+          "type": "L",
+          "name": "פינוקיו",
+          "timestamp": "10:26 pm",
+          "message": "מכל הלב"
+        }
+      ]
     },
     {
       "icon": "https://media.macphun.com/img/uploads/customer/how-to/579/15531840725c93b5489d84e9.43781620.jpg",
       "chatName": "צוות ברק",
-      "chatLatest": "מישהו במשרד?"
+      "chatLatest": "מישהו במשרד?",
+      "chat": [
+        {
+          "type": "NAL",
+          "name": "rue",
+          "timestamp": "10:19 pm",
+          "message": "Hello World!"
+        },
+        {
+          "type": "L",
+          "name": "Mike",
+          "timestamp": "10:20 pm",
+          "message": "Can you believe this amazing chat bubbles? It's all CSS."
+        },
+        {
+          "type": "L",
+          "name": "",
+          "timestamp": "10:21 pm",
+          "message": "Think of the possibilities. &#x1f60d; "
+        },
+        {
+          "type": "NAR",
+          "name": "My Name",
+          "timestamp": "10:22 pm",
+          "message": "It's nuts, dude. Nuts"
+        },
+        {
+          "type": "NNAL",
+          "name": "+353 87 1234 567",
+          "timestamp": "10:25 pm",
+          "message": "Hey, check out this Pure CSS speech bubble..."
+        },
+        {
+          "type": "AR",
+          "name": "",
+          "timestamp": "10:26 pm",
+          "message": "Nice... this will work great for my new project."
+        },
+        {
+          "type": "R",
+          "name": "",
+          "timestamp": "10:26 pm",
+          "message": "Thanks Benni! You the real mvp"
+        }
+      ]
     },
     {
       "icon": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1981871a-1560281723.jpg",
@@ -41,6 +141,7 @@
       "chatLatest": "מה המצב?"
     },
     {
+      "icon": "http://www.habama.co.il/Upload/MediaFiles/%D7%A9%D7%97%D7%A8-%D7%97%D7%A1%D7%95%D7%9F-%D7%92%D7%93%D7%95%D7%9C.gif",
       "chatName": "מלאכי בנימין",
       "chatLatest": "מתווווווקהההה"
     },

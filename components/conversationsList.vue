@@ -26,7 +26,7 @@
           <conversation-node
             :icon="chat.icon"
             :chat-name="chat.chatName"
-            :chat-latest="chat.chatLatest"
+            :chat-latest="chat.chat ? chat.chat[chat.chat.length-1].message : chat.chatLatest"
           />
           <v-divider class="chats-divider" />
         </v-flex>
@@ -39,10 +39,15 @@
 import conversationNode from '@/components/conversationNode'
 export default {
   components: { conversationNode },
+
   data () {
     return {
       chats: require('@/assets/chats.json').chats
     }
+  },
+
+  mounted () {
+    this.$store.commit('updateChat', this.chats[0])
   }
 }
 </script>

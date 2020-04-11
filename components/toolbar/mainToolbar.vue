@@ -18,10 +18,9 @@
                 size="40"
                 class="toolbar-height"
               >
-                <img
+                <v-img
                   src="https://cdn.vuetifyjs.com/images/john.jpg"
-                  alt="John"
-                >
+                />
               </v-avatar>
             </div>
           </v-card>
@@ -51,7 +50,7 @@
           lg="9"
         >
           <v-card id="active-chat-toolbar" tile outlined>
-            <chat-title-toolbar name="Chen Fridel" />
+            <chat-title-toolbar :name="name" :img="img" />
           </v-card>
         </v-col>
       </v-row>
@@ -62,7 +61,15 @@
 <script>
 import chatTitleToolbar from '@/components/toolbar/chatTitleToolbar'
 export default {
-  components: { chatTitleToolbar }
+  components: { chatTitleToolbar },
+  computed: {
+    name () {
+      return this.$store.getters.activeChatName
+    },
+    img () {
+      return this.$store.getters.activeIcon
+    }
+  }
 }
 </script>
 

@@ -10,10 +10,9 @@
             size="49"
             class="toolbar-height"
           >
-            <img
+            <v-img
               :src="icon"
-              style="width: 49px; height: 49px;"
-            >
+            />
           </v-avatar>
         </div>
 
@@ -55,9 +54,20 @@ export default {
       default: 'empty information'
     }
   },
+  data () {
+    return {
+      chats: require('@/assets/chats.json').chats
+    }
+  },
   methods: {
     openChat () {
-      // TODO open the main chat via Vuex
+      let foundChat = []
+      this.chats.forEach((c) => {
+        if (c.chatName === this.chatName) {
+          foundChat = c
+        }
+      })
+      this.$store.commit('updateChat', foundChat)
     }
   }
 }
