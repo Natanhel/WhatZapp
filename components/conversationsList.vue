@@ -59,7 +59,7 @@ export default {
 #scroll-chat {
   overflow-y: scroll;
   overflow-x: hidden;
-  height: 78vh;
+  height: 78.5vh;
 }
 .chats-divider {
   background: var(--border-chatlist) !important;
@@ -85,5 +85,13 @@ export default {
   padding-top: 0.2em;
 }
 
+@media screen and (min-height: 750px) {
+
+  #scroll-chat {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 83.5vh;
+  }
+}
 /* TODO animate search bar */
 </style>

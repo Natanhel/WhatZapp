@@ -116,4 +116,7 @@ svg {
   background: var(--border-strong);
   transform: translateX(-0.4em);
 }
+.theme--light.v-card.v-card--outlined {
+    border: thin solid rgba(0, 0, 0, 0) !important;
+}
 </style>
