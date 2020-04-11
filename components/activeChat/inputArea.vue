@@ -29,6 +29,7 @@ export default {
   height: 13em;
   padding-right: 3em;
   padding-left: 2em;
+
 }
 .message-chat {
   padding-top: 0.5em;
