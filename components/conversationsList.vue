@@ -62,7 +62,7 @@ export default {
   height: 78vh;
 }
 .chats-divider {
-  background: var(--border-chatlist);
+  background: var(--border-chatlist) !important;
 }
 #search-container {
   display: flex;
@@ -75,11 +75,11 @@ export default {
   padding-right: 1em;
 }
 .v-input__slot .v-icon {
-  color: var(--input-placeholder);
+  color: var(--input-placeholder) !important;
   transform: scale(0.75);
 }
 .v-input__slot .v-label {
-  color: var(--input-placeholder);
+  color: var(--input-placeholder) !important;
   font-weight: 100;
   font-size: 15px;
   padding-top: 0.2em;

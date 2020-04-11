@@ -45,4 +45,7 @@ svg {
   margin-top: 1em;
   margin-right: 1em;
 }
+.v-input__control {
+    padding-top: 0.5em;
+}
 </style>

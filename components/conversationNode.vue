@@ -100,6 +100,7 @@ export default {
   font-family: "Segoe UI", "Helvetica Neue", "Helvetica", "Lucida Grande", Arial,
     "Ubuntu", "Cantarell", "Fira Sans", sans-serif;
   font-weight: 400;
+  color: gray;
 }
 .chat-latest {
   padding-left: 1.5em;
@@ -107,5 +108,6 @@ export default {
   font-weight: 300;
   font-family: "Segoe UI", "Helvetica Neue", "Helvetica", "Lucida Grande", Arial,
     "Ubuntu", "Cantarell", "Fira Sans", sans-serif;
+  color: gray;
 }
 </style>
