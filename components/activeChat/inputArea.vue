@@ -29,11 +29,10 @@ export default {
   height: 13em;
   padding-right: 3em;
   padding-left: 2em;
-
 }
 .message-chat {
-  padding-top: 0.5em;
-  padding-right: 1em;
+  padding-top: 0.5em !important;
+  padding-right: 1em !important;
 }
 #mic-icon {
   padding-bottom: 0.8em;
@@ -44,8 +43,5 @@ svg {
   color: var(--icon);
   margin-top: 1em;
   margin-right: 1em;
-}
-.v-input__control {
-    padding-top: 0.5em;
 }
 </style>
